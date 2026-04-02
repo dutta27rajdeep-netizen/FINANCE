@@ -1,0 +1,33 @@
+Statement,Category,Item,2025,2026,2027
+Income Statement,Revenue,Total Revenue,1000000,1100000,1210000
+Income Statement,COGS,Cost of Goods Sold,600000,660000,726000
+Income Statement,Gross Profit,Gross Profit,400000,440000,484000
+Income Statement,Operating Expenses,Operating Expenses,200000,220000,242000
+Income Statement,EBIT,Earnings Before Interest & Taxes,200000,220000,242000
+Income Statement,Financing,Interest Expense,50000,55000,60500
+Income Statement,Taxes,Income Tax,37500,41250,45375
+Income Statement,Net Income,Net Income,112500,123750,136125
+Balance Sheet,Assets,Cash,500000,623750,759875
+Balance Sheet,Assets,Accounts Receivable,100000,110000,121000
+Balance Sheet,Assets,Inventory,150000,165000,181500
+Balance Sheet,Assets,Total Current Assets,750000,898750,1062375
+Balance Sheet,Assets,PP&E,300000,330000,363000
+Balance Sheet,Assets,Total Assets,1050000,1228750,1425375
+Balance Sheet,Liabilities,Accounts Payable,200000,220000,242000
+Balance Sheet,Liabilities,Short-term Debt,100000,100000,100000
+Balance Sheet,Liabilities,Total Current Liabilities,300000,320000,342000
+Balance Sheet,Liabilities,Long-term Debt,150000,150000,150000
+Balance Sheet,Liabilities,Total Liabilities,450000,470000,492000
+Balance Sheet,Equity,Common Stock,300000,300000,300000
+Balance Sheet,Equity,Retained Earnings,300000,458750,633375
+Balance Sheet,Equity,Total Equity,600000,758750,933375
+Cash Flow,Operating,Net Income,112500,123750,136125
+Cash Flow,Operating,Depreciation,30000,30000,30000
+Cash Flow,Operating,Change in Working Capital,-10000,-10000,-10000
+Cash Flow,Operating,Operating Cash Flow,132500,143750,156125
+Cash Flow,Investing,Capital Expenditures,-50000,-50000,-50000
+Cash Flow,Investing,Investing Cash Flow,-50000,-50000,-50000
+Cash Flow,Financing,Dividend Payments,-0,-0,-0
+Cash Flow,Financing,Debt Repayment,-0,-0,-0
+Cash Flow,Financing,Financing Cash Flow,0,0,0
+Cash Flow,Summary,Net Change in Cash,82500,93750,106125
